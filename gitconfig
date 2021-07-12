@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = allyunhahyun@gmail.com
+	name = ally hyun
